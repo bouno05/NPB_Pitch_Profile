@@ -7139,7 +7139,7 @@ if selected_year:
 
         # 選択した球団の選手名を取得
         if selected_team:
-            if selected_team=="ALL Team":
+            if selected_team=="ALL Teams":
                 for i in range(len(list(teams.keys()))):
                     name=list(teams.keys())[i]
                     if i==0:
