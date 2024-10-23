@@ -16,7 +16,7 @@ button_css = f"""
 """
 st.markdown(button_css, unsafe_allow_html=True)
 #辞書
-data={'2024': {'Top Leauge': {'Yomiuri Giants': {'田中 千晴': ['https://drive.google.com/uc?id=1duGk_6vH_lvsc6s85ajOCi6T_SeBren1',
+data={'2024': {'Top League': {'Yomiuri Giants': {'田中 千晴': ['https://drive.google.com/uc?id=1duGk_6vH_lvsc6s85ajOCi6T_SeBren1',
      'https://drive.google.com/uc?id=1M9bJZtj5yskR5u8YyBN0xBwCXZ2vrs4v'],
     '伊藤 優輔': ['https://drive.google.com/uc?id=1cmWFmNXRxIql1C7pYJErW_T38w8LHBX1',
      'https://drive.google.com/uc?id=1kzDBBm7b6BI9V7w2nXjk83OoO3YYBTv4'],
@@ -716,7 +716,7 @@ data={'2024': {'Top Leauge': {'Yomiuri Giants': {'田中 千晴': ['https://driv
      'https://drive.google.com/uc?id=18p1-ghIo_FLcfctzSZUKZKw29KrV8gZ6'],
     '伊藤 大海': ['https://drive.google.com/uc?id=1N6rL_uaKvB0JpTHkYlgmtWPksQpxIC-y',
      'https://drive.google.com/uc?id=18u-hklZlMhfBbyFYhLaU5s8fFwZnoJbu']}},
-  'Farm Leauge': {'Yomiuri Giants': {'森田 駿哉': ['https://drive.google.com/uc?id=14ab_FuscMBw42_w9mOruxNnXTR9oygcT',
+  'Farm League': {'Yomiuri Giants': {'森田 駿哉': ['https://drive.google.com/uc?id=14ab_FuscMBw42_w9mOruxNnXTR9oygcT',
      'https://drive.google.com/uc?id=1b3lwfI0SGxu2DYfUwK15klmR4jb4-k8W'],
     '富田 龍': ['https://drive.google.com/uc?id=1BCRAxJC9m4mnmfMVPEuGmV4GHjQeEt7j',
      'https://drive.google.com/uc?id=1SjRdUmOcbWNqw3aTTUmXW3VypgbV4QQj'],
@@ -1702,7 +1702,7 @@ data={'2024': {'Top Leauge': {'Yomiuri Giants': {'田中 千晴': ['https://driv
      'https://drive.google.com/uc?id=193PkXycWekvewzMtpjlIgUNVBFwn34ka'],
     '薮田 和樹': ['https://drive.google.com/uc?id=1j8tsDNkZWQknrWVmJ6Wdgc8mH0DvQwj-',
      'https://drive.google.com/uc?id=1X3Agq1SjenMT4U2tfnOkYv_-w7_nb1fY']}}},
- '2023': {'Top Leauge': {'Yomiuri Giants': {'高木 京介': ['https://drive.google.com/uc?id=1uMSWvJk1ZcG9dXOgjbPDDN4_udjPz8mH',
+ '2023': {'Top League': {'Yomiuri Giants': {'高木 京介': ['https://drive.google.com/uc?id=1uMSWvJk1ZcG9dXOgjbPDDN4_udjPz8mH',
      'https://drive.google.com/uc?id=1V-CFytWYuXykYdPPdaNF72Iuz5DMoDKP'],
     '堀田 賢慎': ['https://drive.google.com/uc?id=1rdXhZNPq0CFyBz-mh1pjcOVBck61U31D',
      'https://drive.google.com/uc?id=1KEfAGmwUf2vfbS9pTP2p3eHdQMsxkPRm'],
@@ -2382,7 +2382,7 @@ data={'2024': {'Top Leauge': {'Yomiuri Giants': {'田中 千晴': ['https://driv
      'https://drive.google.com/uc?id=1H5d5CwvMdDuqPmFt1q8NuylgJs2VNepP'],
     '加藤 貴之': ['https://drive.google.com/uc?id=1LAE62IWfkCgdazGsFsNhLpQX3iSuYuVJ',
      'https://drive.google.com/uc?id=1P6JbKSBPkj-Ds5YVzmrZ4F4TTlGul1q2']}},
-  'Farm Leauge': {'Yomiuri Giants': {'伊藤 優輔': ['https://drive.google.com/uc?id=1mSg1L5qRdY82LEKfeZ_XQtRXNzCvDu--',
+  'Farm League': {'Yomiuri Giants': {'伊藤 優輔': ['https://drive.google.com/uc?id=1mSg1L5qRdY82LEKfeZ_XQtRXNzCvDu--',
      'https://drive.google.com/uc?id=1Pt_Ls8P6loezr_nZmD8AVICelhM5iS6Y'],
     '田村 朋輝': ['https://drive.google.com/uc?id=1oU0CJaDqeucLoEZO_ZUYpb5q9s3gTa-t',
      'https://drive.google.com/uc?id=1ZOrWcqQceJr3-6YTQMnH-gPNdk43CzTf'],
@@ -3296,7 +3296,7 @@ data={'2024': {'Top Leauge': {'Yomiuri Giants': {'田中 千晴': ['https://driv
      'https://drive.google.com/uc?id=1tYfDaWbUGFoXd90hckPyFd4hF4kdh7lV'],
     '上原 健太': ['https://drive.google.com/uc?id=184OQMElXQFBoVTySK0EyXVdMXYzTcReg',
      'https://drive.google.com/uc?id=1ipDdyFdXNb7u9ZbiEc3zumu8l37ZMQrn']}}},
- '2022': {'Top Leauge': {'Yomiuri Giants': {'クロール': ['https://drive.google.com/uc?id=1XUwrb_7SeHZSif_-snHHT-9PEC-PSQVQ',
+ '2022': {'Top League': {'Yomiuri Giants': {'クロール': ['https://drive.google.com/uc?id=1XUwrb_7SeHZSif_-snHHT-9PEC-PSQVQ',
      'https://drive.google.com/uc?id=1pUTJuN12Mty-Ul4OlOzV3EwclXb86Anh'],
     '山本 一輝': ['https://drive.google.com/uc?id=1MEndAoPx_qRvnLdlFjAoLCEc-lXR3VVj',
      'https://drive.google.com/uc?id=1MtFLFa-HgSHYw5hIe1Bb0sWJXgYrxpQJ'],
@@ -4004,7 +4004,7 @@ data={'2024': {'Top Leauge': {'Yomiuri Giants': {'田中 千晴': ['https://driv
      'https://drive.google.com/uc?id=1SkpAGQM_NyREvM2kHnf-oF0jclnOxhKR'],
     '北山 亘基': ['https://drive.google.com/uc?id=1dxs8lWXcnw4YjvLY3Wv1YgyG-T6Sxp6e',
      'https://drive.google.com/uc?id=1_UYqcd3SPXPlbfqi4GM3ZmsHfQbaDiGJ']}},
-  'Farm Leauge': {'Yomiuri Giants': {'京本 眞': ['https://drive.google.com/uc?id=1j6V-RoWw19SW9yrDhEWh-CP7bIUjO2jQ',
+  'Farm League': {'Yomiuri Giants': {'京本 眞': ['https://drive.google.com/uc?id=1j6V-RoWw19SW9yrDhEWh-CP7bIUjO2jQ',
      'https://drive.google.com/uc?id=1gIwTaTWDElX9c7ThCY9SqOlSjoozI-1j'],
     '石田 隼都': ['https://drive.google.com/uc?id=1FeChIFfrYTWgBJV09B3uDu-rftnvgmTu',
      'https://drive.google.com/uc?id=1tLsCeNpB4MATwiC2RLVg3aBVVLjTTo1X'],
@@ -4892,7 +4892,7 @@ data={'2024': {'Top Leauge': {'Yomiuri Giants': {'田中 千晴': ['https://driv
      'https://drive.google.com/uc?id=1ISZt8OR-WvT85BEAVDgvSjYJDjn2B1CK'],
     '玉井 大翔': ['https://drive.google.com/uc?id=13EQO2LisTHzSfoExqfgzun_9GiQkRk_7',
      'https://drive.google.com/uc?id=14fiM_SDrLOLDUUssx3NaWjAxz7beCut5']}}},
- '2021': {'Top Leauge': {'Yomiuri Giants': {'古川 侑利': ['https://drive.google.com/uc?id=1NzKHHVkQ71tt-qs-BpK4JbbmQQBrYOL7',
+ '2021': {'Top League': {'Yomiuri Giants': {'古川 侑利': ['https://drive.google.com/uc?id=1NzKHHVkQ71tt-qs-BpK4JbbmQQBrYOL7',
      'https://drive.google.com/uc?id=133I6_pYuSKfwyrB01yUWnPonSNa5s6xL'],
     '直江 大輔': ['https://drive.google.com/uc?id=1q6mNAulJCMF4r4VYwYBVGMwD3RxfTdmo',
      'https://drive.google.com/uc?id=1EJ8Hhvs9ZOdQWMQ-2dtBIADOjk_-QHiJ'],
@@ -5578,7 +5578,7 @@ data={'2024': {'Top Leauge': {'Yomiuri Giants': {'田中 千晴': ['https://driv
      'https://drive.google.com/uc?id=1CJvSWWDTyaan2sfgI2FDk3p7eN-sIlF4'],
     '上沢 直之': ['https://drive.google.com/uc?id=1lESnY87oB5BedvlmID_Dc1ODvGkQiWMy',
      'https://drive.google.com/uc?id=1CB_YbSpXzJZFc1Foim1YdfydF4_5wAPc']}},
-  'Farm Leauge': {'Yomiuri Giants': {'太田 龍': ['https://drive.google.com/uc?id=1F8G76HHfLxTpQPdWe6zijC8xD4fOheCe',
+  'Farm League': {'Yomiuri Giants': {'太田 龍': ['https://drive.google.com/uc?id=1F8G76HHfLxTpQPdWe6zijC8xD4fOheCe',
      'https://drive.google.com/uc?id=1imt4AGTxFUBf-7ZlZgsiAdzMugN6qFwO'],
     'ダニエル・ミサキ': ['https://drive.google.com/uc?id=1Kx3z0fXXDSvHz1NZC6CDNBKwivV5eLwS',
      'https://drive.google.com/uc?id=1swYHydpgDwrbeisgv6py0xFn_TsyuF49'],
@@ -6444,7 +6444,7 @@ data={'2024': {'Top Leauge': {'Yomiuri Giants': {'田中 千晴': ['https://driv
      'https://drive.google.com/uc?id=1rA-CGBto6VonukIeye5MGwWO-P1NEygh'],
     '金子 弌大': ['https://drive.google.com/uc?id=1XDKOIyFpTG9pUgsHvvBF5VL1YCrLK1AR',
      'https://drive.google.com/uc?id=1Ncv8L8mBdnv6Ii9NscTwm0NDsp90n2FT']}}},
- '2020': {'Top Leauge': {'Yomiuri Giants': {'横川 凱': ['https://drive.google.com/uc?id=1oArlfKGvzVjiI09VW9k7zfz8KXt0OfBf',
+ '2020': {'Top League': {'Yomiuri Giants': {'横川 凱': ['https://drive.google.com/uc?id=1oArlfKGvzVjiI09VW9k7zfz8KXt0OfBf',
      'https://drive.google.com/uc?id=1cJnMP2WOZuTSKWXTofM-lGLw59yEMpm-'],
     '髙橋 優貴': ['https://drive.google.com/uc?id=1NpmsSW5eXHb4-XXBieqiAM_faaJpWoyP',
      'https://drive.google.com/uc?id=19pYzrJCKS1pZ-nBq50RYOCqYz3m3R_xy'],
@@ -7130,12 +7130,12 @@ selected_year = st.selectbox("Select Year", list(data.keys()))
 # 選択した年度のリーグを取得
 if selected_year:
     leagues = data[selected_year]
-    selected_league = st.selectbox("Select Leauge", list(leagues.keys()))
+    selected_league = st.selectbox("Select League", list(leagues.keys()))
 
     # 選択したリーグの球団を取得
     if selected_league:
         teams = leagues[selected_league]
-        selected_team = st.selectbox("Select Team", ["ALL Team"]+list(teams.keys()),index=0)
+        selected_team = st.selectbox("Select Team", ["ALL Teams"]+list(teams.keys()),index=0)
 
         # 選択した球団の選手名を取得
         if selected_team:
