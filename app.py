@@ -398,7 +398,7 @@ data={'2024': {'Top League': {'Yomiuri Giants': {'田中 千晴 (Chiharu Tanaka)
      'https://drive.google.com/uc?id=17wmeEYfxUwzpfO6GWih524KlZMWhz7AA'],
     '津森 宥紀 (Yuki Tsumori)': ['https://drive.google.com/uc?id=1QdQflITExBamC5_PfgWXQsNQIw9Vt_7H',
      'https://drive.google.com/uc?id=1z2mO8mdnuHyhcnOkBKiB9s6o-_ld9-Dz'],
-    'スチュワート・ジュニア ( jr,Carter stewart)': ['https://drive.google.com/uc?id=1uhNDruzWmxbxXwXhM93K1exWENvjVHGD',
+    'スチュワート・ジュニア (Carter Stewart Jr)': ['https://drive.google.com/uc?id=1uhNDruzWmxbxXwXhM93K1exWENvjVHGD',
      'https://drive.google.com/uc?id=1OJGE8BQ_66Us2Z2lfKwVUcv0HEwHiyen'],
     'モイネロ (Livan Moinelo)': ['https://drive.google.com/uc?id=1_kzbI4sbhIWz2Uh5cxrYrC2XLnbt9Jlj',
      'https://drive.google.com/uc?id=1heN6QOjK8xRAalLXaviPdJ0LrOH9zJ6N'],
@@ -1220,7 +1220,7 @@ data={'2024': {'Top League': {'Yomiuri Giants': {'田中 千晴 (Chiharu Tanaka)
      'https://drive.google.com/uc?id=13T1KY846DgEnO4yEisYE1XNgbgtx5adt'],
     '中村 亮太 (Ryohta Nakamura)': ['https://drive.google.com/uc?id=1uwmBa-wPgVLEonh8RihR9MTZ-dLN3O6P',
      'https://drive.google.com/uc?id=1cHBZolXlD1RTSiF-ST0LKvnZ0Awd6OmM'],
-    'スチュワート・ジュニア ( jr,Carter stewart)': ['https://drive.google.com/uc?id=1fimmdCUy75cPyqEb3f1ZoLQdYZm_KkdQ',
+    'スチュワート・ジュニア (Carter Stewart Jr)': ['https://drive.google.com/uc?id=1fimmdCUy75cPyqEb3f1ZoLQdYZm_KkdQ',
      'https://drive.google.com/uc?id=1RP83e105Ua5-jsg4qmpbdLbjh-CXhqHU'],
     '松本 晴 (Haru Matsumoto)': ['https://drive.google.com/uc?id=14VZCnI_LEscmzRu504Tky4AZhv6bynXU',
      'https://drive.google.com/uc?id=1OcwEmOb5mxOvM0SscEYSTjAK3ekW28On'],
@@ -2042,7 +2042,7 @@ data={'2024': {'Top League': {'Yomiuri Giants': {'田中 千晴 (Chiharu Tanaka)
      'https://drive.google.com/uc?id=1ucwMf-Thw6TDbZ7AlEw7jAm0Nj-QgG9Z'],
     '椎野 新 (Arata Shiino)': ['https://drive.google.com/uc?id=12VBHSO9aVvkhFhwSQteXWzCgHFiH1nCm',
      'https://drive.google.com/uc?id=1kYK8vazdb12Q7ivqKRLaNR1CuGqedakD'],
-    'スチュワート・ジュニア ( jr,Carter stewart)': ['https://drive.google.com/uc?id=17WRJ7PHFMmALieIMWvxdMdX1MMI3kIpJ',
+    'スチュワート・ジュニア (Carter Stewart Jr)': ['https://drive.google.com/uc?id=17WRJ7PHFMmALieIMWvxdMdX1MMI3kIpJ',
      'https://drive.google.com/uc?id=1s50wjym8re6x4RSH3StwqctaMcPb1pmD'],
     '松本 晴 (Haru Matsumoto)': ['https://drive.google.com/uc?id=10L4u0EmpcGSwNWQO-Iy8XTgjmLkz9LAm',
      'https://drive.google.com/uc?id=1EERrVTX_Y7Ia40lisZt8yAZG3ikxRDzm'],
@@ -2870,7 +2870,7 @@ data={'2024': {'Top League': {'Yomiuri Giants': {'田中 千晴 (Chiharu Tanaka)
      'https://drive.google.com/uc?id=1UkYtCxJyfypxwlTNnbIPLFdO_2ekMC26'],
     '松本 裕樹 (Yuki Matsumoto)': ['https://drive.google.com/uc?id=1_igQzzE0i0pG-st01pMdCx2cHHmvcWKF',
      'https://drive.google.com/uc?id=1pG8LRnRhgygFqbgd6nLQ8g_Q1S4ykm-P'],
-    'スチュワート・ジュニア ( jr,Carter stewart)': ['https://drive.google.com/uc?id=1jKbW34Bbvx3Vb7hkkhFmq-KGe63XInFh',
+    'スチュワート・ジュニア (Carter Stewart Jr)': ['https://drive.google.com/uc?id=1jKbW34Bbvx3Vb7hkkhFmq-KGe63XInFh',
      'https://drive.google.com/uc?id=1OJD3FwDIH1tumjYMChkPg_pHhcmx0cdY'],
     'フェリックス (Mailon Felix)': ['https://drive.google.com/uc?id=1gWQZrjknbvJVJdkNagQBHukkBamDH6-z',
      'https://drive.google.com/uc?id=15Z7kGbndVOyxQTeavdfQ_vH4cBl5kjpL'],
@@ -4464,7 +4464,7 @@ data={'2024': {'Top League': {'Yomiuri Giants': {'田中 千晴 (Chiharu Tanaka)
      'https://drive.google.com/uc?id=18rS-ShBI8zpGX8ZUkouvbIKf_ElO1Yrc'],
     '武田 翔太 (Shohta Takeda)': ['https://drive.google.com/uc?id=1tDsgwuaNPJg8AzMrpf8iKBsYngOI0JH1',
      'https://drive.google.com/uc?id=1W_ykB3npJ195wuqx4-KRxc8WTYtWaTM-'],
-    'スチュワート・ジュニア ( jr,Carter stewart)': ['https://drive.google.com/uc?id=1AevrekUFqH5qvxxOgsxbkYh345TRo7Pu',
+    'スチュワート・ジュニア (Carter Stewart Jr)': ['https://drive.google.com/uc?id=1AevrekUFqH5qvxxOgsxbkYh345TRo7Pu',
      'https://drive.google.com/uc?id=1a0TxT-fMNCnIK6MAimviy72thOJvZUt1'],
     '田浦 文丸 (Fumimaru Taura)': ['https://drive.google.com/uc?id=1lFFsjJ7c6xPMT2sJhmW8oRWgzqia-MNk',
      'https://drive.google.com/uc?id=1sOZ3tytxgk_kLwcFyrcmH7AHsS9VHF9V'],
@@ -5252,7 +5252,7 @@ data={'2024': {'Top League': {'Yomiuri Giants': {'田中 千晴 (Chiharu Tanaka)
      'https://drive.google.com/uc?id=1QfsMP96CqoLQP7EpYyJKURG1QEnoRiaV'],
     'マルティネス (Nick Martinez)': ['https://drive.google.com/uc?id=1E2GsnY9LhZlWGcWwg6hSgzXI-X6M006m',
      'https://drive.google.com/uc?id=1H_rbO3NtRUerRPmLwXO4gQBySc5Nd6u7'],
-    'スチュワート・ジュニア ( jr,Carter stewart)': ['https://drive.google.com/uc?id=1vH_EIvkF-Y-Z8I3d2oUNlFiKBDqTi2CL',
+    'スチュワート・ジュニア (Carter Stewart Jr)': ['https://drive.google.com/uc?id=1vH_EIvkF-Y-Z8I3d2oUNlFiKBDqTi2CL',
      'https://drive.google.com/uc?id=1y2p68G8no61Xp6Uw0WfyCv9oA6YVIGvI'],
     '松本 裕樹 (Yuki Matsumoto)': ['https://drive.google.com/uc?id=1ZuSuhPsW_TOykd-PlJxTFVHo4giGgJdh',
      'https://drive.google.com/uc?id=1uQwW2X6YReyCYTABuEDHrngpwx8RIkTd'],
@@ -6074,7 +6074,7 @@ data={'2024': {'Top League': {'Yomiuri Giants': {'田中 千晴 (Chiharu Tanaka)
      'https://drive.google.com/uc?id=1_9NApVvwsifAJ7tt05L9rvKUbuyB9MHY'],
     '渡邉 雄大 (Yuta Watanabe)': ['https://drive.google.com/uc?id=1pMX7q3rDFhwNMDxR9e8vv_q7QrtkuWja',
      'https://drive.google.com/uc?id=11ot_GGA060CXwiigRkZhKL_cqrjEgytJ'],
-    'スチュワート・ジュニア ( jr,Carter stewart)': ['https://drive.google.com/uc?id=1JSs8Yjh41dzJj6mdJXk6a3z_HQkYTjAV',
+    'スチュワート・ジュニア (Carter Stewart Jr)': ['https://drive.google.com/uc?id=1JSs8Yjh41dzJj6mdJXk6a3z_HQkYTjAV',
      'https://drive.google.com/uc?id=1nBJM2b25t28DbSsjQQGNdBLQX3bmUQcm'],
     '重田 倫明 (Tomoaki Shigeta)': ['https://drive.google.com/uc?id=1lUNiLi7qABRlPD8ShzmRWDiIv4m4_0_q',
      'https://drive.google.com/uc?id=1G9jnTEsqywb9XAOmao9B24DS8uYXwtoO'],
@@ -7173,6 +7173,7 @@ if button:
 #注意事項
 with st.container(height=250):
      st.markdown(":gray[・「Generate」ボタンをクリックすると投手プロフィールが生成されます。]")
+     st.markdown(":gray[・ローマ字は表記ゆれがある場合がございます。ご了承ください。]")
      st.markdown(":gray[・本データは@bouno05によって独自に収集・計算されたものです。]")
      st.markdown(":gray[・同一選手が複数球団でプレーした場合、所属球団ごとに成績を集計しています。]")
      st.markdown(":gray[・詳細はこちらをご参照ください。]")
