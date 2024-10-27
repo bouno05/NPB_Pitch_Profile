@@ -7149,7 +7149,7 @@ if selected_year:
             else:
                 team_players = teams[selected_team]
             selected_player = st.selectbox("Select or Input a Player", list(team_players.keys()),index = None,
-    placeholder="Input a player")
+    placeholder="Input a player...")
 
 #ボタン
 button=st.button(" Generate ! ", icon=":material/stylus_note:",type="primary")
