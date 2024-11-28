@@ -7175,6 +7175,6 @@ with st.container(height=250):
      st.markdown(":gray[・「Generate」ボタンをクリックすると投手プロフィールが生成されます。]")
      st.markdown(":gray[・ローマ字は表記ゆれがある場合がございます。ご了承ください。]")
      st.markdown(":gray[・本データは@bouno05によって独自に収集・計算されたものです。]")
-     st.markdown(":gray[・同一選手が複数球団でプレーした場合、所属球団ごとに成績を集計しています。]")
-     st.markdown(":gray[・詳細はこちらをご参照ください。]")
+     st.markdown(":gray[・同一選手が複数球団でプレーした場合、成績は所属球団ごとに集計されます。]")
+     st.markdown(":gray[・指標に関しての詳細はこちらをご参照ください。]")
      st.page_link("https://bo-no05.hatenadiary.org/entry/2010/01/01/000000",label="https://bo-no05.hatenadiary.org/entry/2010/01/01/00000")
