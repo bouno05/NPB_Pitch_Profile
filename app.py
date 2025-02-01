@@ -7162,11 +7162,11 @@ if button:
         response = requests.get(urls[0])
         image1 = Image.open(BytesIO(response.content))
         with tab1:
-            st.image(image1, use_column_width=True)
+            st.image(image1, use_container_width=True)
         response = requests.get(urls[1])
         image2 = Image.open(BytesIO(response.content))
         with tab2:
-            st.image(image2, use_column_width=True)
+            st.image(image2, use_container_width=True)
     except:
         pass
 
