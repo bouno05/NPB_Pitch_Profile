@@ -4,6 +4,7 @@ import requests
 from io import BytesIO
 import pandas as pd
 import numpy as np
+import json
 
 
 #デザインCSS
@@ -21,6 +22,7 @@ def load_data():
     with open(file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
     return data
+data = load_data()
 #タイトル
 st.title("NPB Pitch Profiler - β ver.")
 st.write("Developed by bouno05")
