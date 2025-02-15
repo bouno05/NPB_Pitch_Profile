@@ -26,7 +26,7 @@ data = load_data()
 #タイトル
 st.title("NPB Pitch Profiler - β ver.")
 st.markdown("Developed by [bouno05](https://x.com/bouno05)")
-
+st.markdown("【 [NPB Bat Profiler](https://npbbatprofile-7knoehzqmixokxxxj2weeq.streamlit.app/) 】")
 # 年度を選択
 selected_year = st.selectbox("Select Year", list(data.keys()))
 
