@@ -25,7 +25,7 @@ def load_data():
 data = load_data()
 #タイトル
 st.title("NPB Pitch Profiler - β ver.")
-st.write("Developed by bouno05")
+st.markdown("Developed by [bouno05](https://x.com/bouno05)")
 
 # 年度を選択
 selected_year = st.selectbox("Select Year", list(data.keys()))
