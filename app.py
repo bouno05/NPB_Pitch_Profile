@@ -27,10 +27,10 @@ data = load_data()
 st.title("NPB Pitch Profiler - β ver.")
 st.markdown("Developed by [bouno05](https://x.com/bouno05)")
 st.markdown("【 [NPB Bat Profiler](https://npbbatprofile-7knoehzqmixokxxxj2weeq.streamlit.app/) 】")
-
+st.markdown("※2025年は5/7終了時点のデータ")
 # 年度を選択
 selected_year = st.selectbox("Select Year", list(data.keys()))
-st.markdown("※2025年は5/7終了時点のデータ")
+
 # 選択した年度のリーグを取得
 if selected_year:
     leagues = data[selected_year]
