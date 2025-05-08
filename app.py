@@ -30,12 +30,11 @@ st.markdown("【 [NPB Bat Profiler](https://npbbatprofile-7knoehzqmixokxxxj2weeq
 st.markdown("※2025年は5/7終了時点のデータ")
 # 年度を選択
 selected_year = st.selectbox("Select Year", list(data.keys()))
-
 # 選択した年度のリーグを取得
 if selected_year:
     leagues = data[selected_year]
     selected_league = st.selectbox("Select League", list(leagues.keys()))
-　　
+
     # 選択したリーグの球団を取得
     if selected_league:
         teams = leagues[selected_league]
