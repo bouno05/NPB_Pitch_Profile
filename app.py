@@ -24,7 +24,7 @@ def load_data():
     return data
 data = load_data()
 #タイトル
-st.title("aNPB Pitch Profiler - β ver.")
+st.title("NPB Pitch Profiler - β ver.")
 st.markdown("Developed by [bouno05](https://x.com/bouno05)")
 st.markdown("【 [NPB Bat Profiler](https://npbbatprofile-7knoehzqmixokxxxj2weeq.streamlit.app/) 】")
 st.markdown("※2025年はシーズン途中のデータ　1軍：5/7終了時点、2軍：7/17終了時点")
