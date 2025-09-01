@@ -27,7 +27,7 @@ data = load_data()
 st.title("NPB Pitch Profiler - β ver.")
 st.markdown("Developed by [bouno05](https://x.com/bouno05)")
 st.markdown("【 [NPB Bat Profiler](https://npbbatprofile-7knoehzqmixokxxxj2weeq.streamlit.app/) 】")
-st.markdown("※2025年はシーズン途中のデータ　1軍：7/21終了時点、2軍：7/17終了時点")
+st.markdown("※2025年はシーズン途中のデータ　1軍：9/1終了時点、2軍：9/1終了時点")
 # 年度を選択
 selected_year = st.selectbox("Select Year", list(data.keys()))
 # 選択した年度のリーグを取得
@@ -93,3 +93,4 @@ with st.container(height=250):
      st.markdown(":gray[・同一選手が複数球団でプレーした場合、成績は所属球団ごとに集計されます。]")
      st.markdown(":gray[・指標に関しての詳細はこちらをご参照ください。]")
      st.page_link("https://bo-no05.hatenadiary.org/entry/2010/01/01/000000",label="https://bo-no05.hatenadiary.org/entry/2010/01/01/00000")
+
